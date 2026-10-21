@@ -18,4 +18,4 @@ TypeScript, Node, PostgreSQL — and the part most developers skip.
 
 Italy · remote · open to work
 
-[errusso.github.io](https://errusso.github.io) · [s.russo06@icloud.com](mailto:s.russo06@icloud.com) · [LinkedIn](https://www.linkedin.com/in/simone-russo-4196103b8/)
+[errusso.github.io](https://errusso.github.io) · [s.russo06@icloud.com](mailto:s.russo06@icloud.com)
